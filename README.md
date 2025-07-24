@@ -2,7 +2,9 @@
 
 I’m a Data Scientist with 2 years of experience wrangling data and building models that solve real problems, mostly with Python, SQL, and tools like Scikit-learn. For the past 7 months, I’ve been geeking out over Data Engineering, teaching myself ETL pipelines, cloud platforms like AWS, and tools like Apache Airflow. I started my journey with a Computer Science degree at Catholic university (didn’t quite finish, but learned a ton!). 
 
-lemme give you a hidden gem , digging into messy datasets is therapeutic especially when it ends with well-crafted clean solutions 🫦. Got some repos showing some of my projects in data analysis and machine learning.
+shhhhhh!!🤫
+
+Lemme give you a hidden gem , digging into messy datasets is therapeutic especially when it ends with well-crafted clean solutions 🫦. Got some repos showing some of my projects in data analysis and machine learning.
 
 👀 watch your data pipelines 👀!!        they might be leaking 💦💦💦
 
